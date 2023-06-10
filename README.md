@@ -6,4 +6,4 @@ passionate about **GNU/Linux** and likes to **write code**.
 there is not much to see here, just checkout my **repos**.
 <br/>
 <br>
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/sttp.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views)](https://github.com/orhun)
+[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/sttp.gpg) [![archlinux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&labelColor=545454&style=flat-square)](https://archlinux.org/)
