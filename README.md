@@ -6,4 +6,4 @@ passionate about **GNU/Linux** and likes to **write code**.
 there is not much to see here, just checkout my **repos**.
 <br/>
 <br>
-[![pgp](https://img.shields.io/badge/pgp-0x9BA6ADCC0F05BE4B-313131?style=flat&labelColor=545454&color=313131)](https://github.com/sttp.gpg) [![archlinux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&labelColor=545454&style=flat-square)](https://archlinux.org/)
+[![pgp](https://img.shields.io/badge/pgp-0x9BA6ADCC0F05BE4B-313131?style=flat&labelColor=545454&color=313131)](https://github.com/nusv.gpg) [![archlinux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&labelColor=545454&style=flat-square)](https://archlinux.org/)
