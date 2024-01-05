@@ -1,3 +1,9 @@
+```
+         _
+ _____ _| |_ _
+|     | . |_'_|   
+|_|_|_|___|_,_|   mdx v
+```
 passionate about **GNU/Linux** and likes to **write code**.
 <br/>
 there isn't much to see here, just checkout my **repos**.
