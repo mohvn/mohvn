@@ -2,7 +2,7 @@
          _
  _____ _| |_ _
 |     | . |_'_|   
-|_|_|_|___|_,_|   mdx v
+|_|_|_|___|_,_|   mdxv
 ```
 passionate about **GNU/Linux** and likes to **write code**.
 <br/>
