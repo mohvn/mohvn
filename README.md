@@ -4,7 +4,7 @@
 |     | . |_'_|   
 |_|_|_|___|_,_|   mdx
 ```
-passionate about **GNU/Linux** and likes to **write code**.
+passionate about **GNU/Linux** and like to **write code**.
 <br/>
 there's not much to see here, just checkout my **repos**.
 <br/>
