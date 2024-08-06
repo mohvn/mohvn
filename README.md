@@ -1,4 +1,4 @@
-<img align=left src="https://github.com/user-attachments/assets/d3990706-24e4-4f3c-bb50-7e95a334a327" width=300 />
+<img align=left src="https://github.com/user-attachments/assets/d3990706-24e4-4f3c-bb50-7e95a334a327" width=250 />
 
 
 ```
