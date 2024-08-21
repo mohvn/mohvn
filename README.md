@@ -6,7 +6,3 @@ There's not much to see here, just checkout my repos.
 ![OSX](https://badgen.net/badge/icon/OSX?icon=apple&label&color=black)
 ![ArchLinux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&color=313131&labelColor=545454)
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&logo=neovim&logoColor=white&color=313131&labelColor=545454)
-
-<br>
-
-
