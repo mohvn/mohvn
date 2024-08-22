@@ -1,4 +1,4 @@
-I'm Mohan, passionate about GNU/Linux and likes to write code.
+I'm **Mohan**, passionate about GNU/Linux and likes to write code.
 <br/>
 There's not much to see here, just checkout my repos.
 
