@@ -1,6 +1,3 @@
-
-<img align=left src="https://i.imgur.com/yziSNXY.png" width=200>
-
 ```
 I'm Mohan, passionate about GNU/Linux and likes to write code.
 
