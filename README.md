@@ -1,9 +1,9 @@
 <samp> Bem-vindo Welcome </samp>
 <p>
-    <samp>
-    &emsp; <b>‣</b> I'm<samp><i> Mohan </i>passionate about <i>GNU/Linux</i> and likes to write code.
+<samp>
+I'm<samp><i> Mohan </i>passionate about <i>GNU/Linux</i> and likes to write code.
     <br>
-    &emsp; <b>‣</b> There's not much to see here, just checkout my repos.
+There's not much to see here, just checkout my repos.
     <br>
     </samp>
 </p>
