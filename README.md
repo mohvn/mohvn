@@ -1,11 +1,10 @@
-<samp> Bem-vindo Welcome </samp>
+<samp> Welcome
 <p>
-<samp>
-I'm<samp><i> Mohan </i>passionate about <i>GNU/Linux</i> and likes to write code.
+    <samp>
+&emsp;I'm <i>Mohan</i>, passionate about GNU/Linux and likes to write code. 
     <br>
-There's not much to see here, just checkout my repos.
+&emsp;There's not much to see here, just checkout my repos. 
     <br>
-    </samp>
 </p>
 
 </div>
