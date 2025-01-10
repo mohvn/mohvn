@@ -1,4 +1,3 @@
-<samp> Welcome
 <p>
     <samp>
 &emsp;I'm <i>Mohan</i>, passionate about GNU/Linux and likes to write code. 
