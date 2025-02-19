@@ -1,3 +1,8 @@
+<img align=left src="https://github.com/user-attachments/assets/e0af210d-dba7-4c98-9b12-7d122a71dd45" width=200 />
+
+<br/>
+<br/>
+
 I'm **Mohan,** passionate about **GNU/Linux** and likes to write code. <br/>
 There's not much to see here, just checkout my repos. 
 
