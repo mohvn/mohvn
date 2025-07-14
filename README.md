@@ -1,5 +1,5 @@
 ```
-I'm Mohan, passionate about GNU/Linux and likes to write code. <br/>
+I'm Mohan, passionate about GNU/Linux and likes to write code.
 There's not much to see here, just checkout my repos. 
 ```
 
