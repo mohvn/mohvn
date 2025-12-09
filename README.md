@@ -1,5 +1,3 @@
-<img align="left" height="200" src="https://i.imgur.com/xf9wN28.png"/>
-
  ```
                 /\
   ___/\   ____ |  |___/\   /\___
