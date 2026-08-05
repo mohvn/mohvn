@@ -1,4 +1,5 @@
-<img width="1500" height="500" alt="header" src="https://github.com/user-attachments/assets/49b2ddbb-c4ce-4225-984d-563681da252d" />
+<img width="1500" height="500" alt="header" src="https://github.com/user-attachments/assets/60120657-6bbc-4679-8e6b-1a80ba26f189" />
+
 
 
 [![pgp](https://img.shields.io/badge/pgp-0x9BA6ADCC0F05BE4B-313131?style=flat&labelColor=545454&color=313131)](https://github.com/mohvn.gpg)
